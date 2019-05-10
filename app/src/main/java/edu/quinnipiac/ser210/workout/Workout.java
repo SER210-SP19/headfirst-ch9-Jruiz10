@@ -12,7 +12,7 @@ public class Workout {
             new Workout("The Wimp Special",
                     "5 Pull-ups\n10 Push-ups\n15 Squats"),
             new Workout("Strength and Length",
-                    "500 meter run\n21 x 1.5 pound kettleball swing\n21 x pull-ups")
+                    "500 meter run\n21 x 1.5 pood kettleball swing\n21 x pull-ups")
     };
 
     //Each Workout has a name and description
